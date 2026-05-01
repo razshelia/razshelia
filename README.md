@@ -28,8 +28,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=E83E8C&text_color=555555&icon_color=FF6B6B&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=E83E8C&text_color=555555" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=razshelia&show_icons=true&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=E83E8C&text_color=555555&icon_color=FF6B6B&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razshelia&layout=compact&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=E83E8C&text_color=555555" alt="Top Languages" />
 </p>
 ---
 
