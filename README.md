@@ -45,6 +45,7 @@
 ---
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG8ybndxbDdrYnkxNWZ2eHZxa2JzYzJ6Ym1xdzZtbXB3eHdjcWdtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8yQOPX3GkG3Ff1gBts/giphy.gif" width="120" alt="Jumping Pixel Pet" />
+  <img src="pet.gif" width="120" alt="My Virtual Pet" />
   <br>
+  <p><i>🐾 
 </div>
