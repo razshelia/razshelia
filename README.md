@@ -26,11 +26,12 @@
   <img src="https://img.shields.io/badge/Git-FF4D4D?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 📈 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=razshelia&show_icons=true&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=E83E8C&text_color=555555&icon_color=FF6B6B&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razshelia&layout=compact&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=E83E8C&text_color=555555" alt="Top Languages" />
-</p>
+
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=razshelia&show_icons=true&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=E83E8C&text_color=555555&icon_color=FF6B6B&include_all_commits=true)](https://github.com/razshelia)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=razshelia&layout=compact&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=E83E8C&text_color=555555)](https://github.com/razshelia)
+
 ---
 
 <p align="center">
