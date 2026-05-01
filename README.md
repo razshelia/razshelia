@@ -28,9 +28,11 @@
 
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=razshelia&show_icons=true&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=E83E8C&text_color=555555&icon_color=FF6B6B&include_all_commits=true)](https://github.com/razshelia)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=razshelia&theme=calm&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=razshelia&theme=calm&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=razshelia&theme=calm&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=razshelia&layout=compact&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=E83E8C&text_color=555555)](https://github.com/razshelia)
 
 ---
 
@@ -39,3 +41,10 @@
   <br>
   <i>"I've got my eye on the goal, just like an eleven out of ten."</i> 🍓✨
 </p>
+
+---
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG8ybndxbDdrYnkxNWZ2eHZxa2JzYzJ6Ym1xdzZtbXB3eHdjcWdtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8yQOPX3GkG3Ff1gBts/giphy.gif" width="120" alt="Jumping Pixel Pet" />
+  <br>
+</div>
