@@ -16,7 +16,7 @@
 
 ### 🍓 About Me
 - 🎓 **Undergraduate Student:** Information Technology.
-- 💡 **Philosophy:** I pay great attention to detail—ensuring every logic, from complex C# fuel simulations to network routing, flows as smoothly as a good melody.
+- 💡 **Philosophy:** I pay great attention to detail and ensuring every logic.
 
 ### 🛠️ My Tech Basket
 <p align="left">
