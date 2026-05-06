@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  I am an IT undergraduate who loves bringing ideas to life through code. Currently exploring everything from structured programming to network infrastructure, making sure every little detail is perfectly in sync! 🍰💻
+  I am an IT undergraduate who so in love bringing ideas to life through code. Currently exploring everything from structured programming to network infrastructure, making sure every little detail is perfectly in sync! 🍰💻
 </p>
 
 ---
